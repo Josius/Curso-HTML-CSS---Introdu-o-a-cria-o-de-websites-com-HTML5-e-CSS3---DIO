@@ -14,3 +14,11 @@ Curso simples ao qual ensinado sobre as tags do html, suas funções, usos e sem
 - ol
 - li
 - h1, h2, e assim por diante.
+<<<<<<< HEAD
+=======
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/58814756/155431474-8921974a-49fc-4f72-94b8-1b4eba728446.png" />
+</div>
+
+>>>>>>> c2481ad0bac2b601a356559d2070c84e09f4f58c
