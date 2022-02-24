@@ -19,4 +19,4 @@ Curso simples ao qual ensinado sobre as tags do html, suas funções, usos e sem
 
 
 
-![](/home/werewolf/Imagens/paginaCompleta.png)
+![paginaCompleta](https://user-images.githubusercontent.com/58814756/155431474-8921974a-49fc-4f72-94b8-1b4eba728446.png)
