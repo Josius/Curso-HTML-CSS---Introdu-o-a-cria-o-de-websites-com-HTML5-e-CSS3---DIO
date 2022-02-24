@@ -14,9 +14,3 @@ Curso simples ao qual ensinado sobre as tags do html, suas funções, usos e sem
 - ol
 - li
 - h1, h2, e assim por diante.
-
-
-
-
-
-![](/home/werewolf/Imagens/paginaCompleta.png)
