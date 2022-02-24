@@ -1,5 +1,5 @@
 # Curso HTML-CSS - Introdução a criação de websites com HTML5 e CSS3 - DIO
-#### Bases de HTML5 e CSS3.
+### Bases de HTML5 e CSS3.
 
 Curso simples ao qual foi ensinado sobre as tags do HTML, suas funções, usos e semântica, tais como:
 
@@ -26,4 +26,8 @@ Já em CSS, vimos como funcionam os **seletores** como **IDs e classes**. Além 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/58814756/155431474-8921974a-49fc-4f72-94b8-1b4eba728446.png" />
 </div>
-Link para o certificado: https://www.dio.me/certificate/8F25B473
+
+
+
+
+Link para o certificado: [8F25B473](https://www.dio.me/certificate/8F25B473)
