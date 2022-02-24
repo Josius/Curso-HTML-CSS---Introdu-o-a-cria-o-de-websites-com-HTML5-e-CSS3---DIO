@@ -1,5 +1,5 @@
 # Curso HTML-CSS - Introdução a criação de websites com HTML5 e CSS3 - DIO
-## Bases de HTML5 e CSS3.
+#### Bases de HTML5 e CSS3.
 
 Curso simples ao qual foi ensinado sobre as tags do HTML, suas funções, usos e semântica, tais como:
 
