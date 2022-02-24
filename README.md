@@ -26,3 +26,4 @@ Já em CSS, vimos como funcionam os **seletores** como **IDs e classes**. Além 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/58814756/155431474-8921974a-49fc-4f72-94b8-1b4eba728446.png" />
 </div>
+Link para o certificado: https://www.dio.me/certificate/8F25B473
